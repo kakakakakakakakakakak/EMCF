@@ -11,7 +11,7 @@ In addition to the above, we have innovated in the encoder by incorporating a **
 # Dataset-A robust and outstanding dataset
 
 First, abundant turning movement flow data are collected across multiple regions in Ontario, Canada. An overview of the datasets and their contents is presented in Table 1.
-![image](https://github.com/user-attachments/assets/2ed200e8-d3da-4688-9092-17e268e49c55)
+A robust and outstanding dataset
 These datasets contain long-term traffic records from various urban intersections. The data volume refers to the number of recorded entries, where M denotes million.
 These rich datasets provide us with a solid experimental foundation to fully validate the model's performance。
 
