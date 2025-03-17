@@ -13,7 +13,7 @@ import numpy as np
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 factors = ['EBL', 'EBR', 'EBT', 'NBL', 'NBR', 'NBT', 'SBL', 'SBR', 'SBT', 'WBL', 'WBR', 'WBT']
-Path = "D:\\Desktop\\KAKA\\MY\\LX\\newTraffic\\data\\"
+Path = "D:data\\"
 train_df = pd.read_csv(Path + "sample_train.csv", index_col='Time_in')
 train_dataset = train_df.to_numpy()
 test_df = pd.read_csv(Path + "sample_test.csv", index_col='Time_in')
