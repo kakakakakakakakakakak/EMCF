@@ -23,4 +23,8 @@ pip install -r requirements.txt
 ```
 In addition, we provide an installation package for mamba_ssm, which solves the installation problem
 
+# Experimental Analysis
+This paper conducted multiple experiments to verify the comprehensive performance of the model.
+
+
 We will gradually open part of the code and part of the dataset. The source code will be opened after the paper is accepted. It is currently being organized.
