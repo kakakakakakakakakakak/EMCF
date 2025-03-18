@@ -18,6 +18,9 @@ These rich datasets provide us with a solid experimental foundation to fully val
 
 We provide you with a convenient installation environment
 
+```
 pip install -r requirements.txt
+```
+In addition, we provide an installation package for mamba_ssm, which solves the installation problem
 
 We will gradually open part of the code and part of the dataset. The source code will be opened after the paper is accepted. It is currently being organized.
