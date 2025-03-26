@@ -26,5 +26,5 @@ In addition, we provide an installation package for mamba_ssm, which solves the 
 # Experimental Analysis
 This paper conducted multiple experiments to verify the comprehensive performance of the model.
 
-
+The experiments in this paper use several SOTA models for comparison, and the model code comes from the Time-Series-Library-main project in GITHUB.  We thank the project for its contribution to the further development of time series and its example of a more open research environment!
 We will gradually open part of the code and part of the dataset. The source code will be opened after the paper is accepted. It is currently being organized.
