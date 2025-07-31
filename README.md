@@ -6,6 +6,8 @@ Exogenous Variable Fusional Transformer for Intersection-Level Turning Movement 
 -------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/kakakakakakakakakakak/EMCF/blob/main/FIG/EFformer.svg)
+
+
 In addition to the above, we have innovated in the encoder by incorporating a **single-channel MAMBA** (state space mechanism) and a cross-dimensional attention mechanism. An enhanced LSTM(**En-LSTM**) has also been developed.
 # Dataset- Robust and Outstanding dataset
 
