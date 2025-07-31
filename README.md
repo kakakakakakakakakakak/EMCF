@@ -2,10 +2,10 @@
 Exogenous Variable Fusional Transformer for Intersection-Level Turning Movement Traffic Flow Prediction
 # Key Designs
 :bulb: **Variable Fusion Layer** :Differentially integrating exogenous variables with exogenous variables.
-![image][(https://github.com/kakakakakakakakakakak/EMCF/blob/main/FIG/VFL.pdf)]
+![image](https://github.com/kakakakakakakakakakak/EMCF/blob/main/FIG/VFL.pdf)
 
 
-![image][(https://github.com/kakakakakakakakakakak/EMCF/blob/main/FIG/emcf.pdf)]
+![image](https://github.com/kakakakakakakakakakak/EMCF/blob/main/FIG/emcf.pdf)
 
 
 In addition to the above, we have innovated in the encoder by incorporating a **single-channel MAMBA** (state space mechanism) and a cross-dimensional attention mechanism. An enhanced LSTM(**En-LSTM**) has also been developed.
