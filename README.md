@@ -2,7 +2,7 @@
 Exogenous Variable Fusional Transformer for Intersection-Level Turning Movement Traffic Flow Prediction
 # Key Designs
 :bulb: **Variable Fusion Layer** :Differentially integrating exogenous variables with exogenous variables.
-![image](https://github.com/kakakakakakakakakakak/EMCF/blob/main/FIG/VFL.pdf)
+![image](https://github.com/kakakakakakakakakakak/EMCF/blob/main/FIG/emcf.pdf)
 
 
 ![image](https://github.com/kakakakakakakakakakak/EMCF/blob/main/FIG/emcf.pdf)
