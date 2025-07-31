@@ -1,4 +1,4 @@
-# **EFformer**
+# **EMCF**
 Exogenous Variable Fusional Transformer for Intersection-Level Turning Movement Traffic Flow Prediction
 # Key Designs
 :bulb: **Variable Fusion Layer** :Differentially integrating exogenous variables with exogenous variables.
