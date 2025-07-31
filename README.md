@@ -3,9 +3,8 @@ Exogenous Variable Fusional Transformer for Intersection-Level Turning Movement 
 # Key Designs
 :bulb: **Variable Fusion Layer** :Differentially integrating exogenous variables with exogenous variables.
 ![image](https://github.com/kakakakakakakakakakak/EMCF/blob/main/FIG/VFL.svg)
-:bulb: **Multi-Scale Segmentation Mechanism** :Optimizing lookback window length is essential for robust forecasting.
-A multi-scale segmentation mechanism partitions input sequences into different scales, processes them independently, 
-and aggregates the outputs to capture multi-scale temporal dependencies, improving prediction accuracy and model robustness.
+-------------------------------------------------------------------------------------------------------------------------
+
 ![image](https://github.com/kakakakakakakakakakak/EMCF/blob/main/FIG/EFformer.svg)
 In addition to the above, we have innovated in the encoder by incorporating a **single-channel MAMBA** (state space mechanism) and a cross-dimensional attention mechanism. An enhanced LSTM(**En-LSTM**) has also been developed.
 # Dataset- Robust and Outstanding dataset
